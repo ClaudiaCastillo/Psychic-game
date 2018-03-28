@@ -2,7 +2,9 @@
 Psychic Game Assignment. 
 
 The app will run in the browser, and feature dynamically updated HTML powered by the JavaScript code.
-The app randomly picks a letter, and the user has to guess which letter the app chose. 
+The app randomly picks a letter, and the user has to guess which letter the app chose.
+
+https://claudiacastillo.github.io/Psychic-game/
 
 Uses the following text on the page: 
 
