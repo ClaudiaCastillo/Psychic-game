@@ -1,5 +1,5 @@
 # Psychic-game
-Psychic Game Assignment. 
+Psychic Game Project. 
 
 The app will run in the browser, and feature dynamically updated HTML powered by the JavaScript code.
 The app randomly picks a letter, and the user has to guess which letter the app chose.
